@@ -1,0 +1,3 @@
+entryScript: scoring.py
+runtime: python
+condaFile: env.yaml
